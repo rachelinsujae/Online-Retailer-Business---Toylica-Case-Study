@@ -12,3 +12,6 @@ Customer Section: Includes tables for customers (identified by customerNumber), 
 Product Section: Includes tables for products (identified by productCode) and product lines, which categorize toy models (e.g., vintage cars, motorcycles).
 
 Toylica's database, comprising eight tables, provides a comprehensive framework for storing and analyzing data. Your task is to leverage SQL queries to extract meaningful insights, thereby aiding in strategic decision-making to drive Toylica's business forward.
+
+<img width="493" alt="image" src="https://github.com/rachelinsujae/Online-Retailer-Business---Toylica-Case-Study/assets/122012210/cdb03a64-57a9-4a48-b4df-66bd61d5c5a9">
+
